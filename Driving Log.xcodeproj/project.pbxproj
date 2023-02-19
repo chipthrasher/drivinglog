@@ -7,62 +7,61 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4572B36729A2D4A00070FDBA /* Driving_LogApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4572B36629A2D4A00070FDBA /* Driving_LogApp.swift */; };
-		4572B36929A2D4A00070FDBA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4572B36829A2D4A00070FDBA /* ContentView.swift */; };
-		4572B36B29A2D4A10070FDBA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4572B36A29A2D4A10070FDBA /* Assets.xcassets */; };
-		4572B36F29A2D4A10070FDBA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4572B36E29A2D4A10070FDBA /* Preview Assets.xcassets */; };
-		4572B37929A2D4A10070FDBA /* Driving_LogTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4572B37829A2D4A10070FDBA /* Driving_LogTests.swift */; };
-		4572B38329A2D4A10070FDBA /* Driving_LogUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4572B38229A2D4A10070FDBA /* Driving_LogUITests.swift */; };
-		4572B38529A2D4A10070FDBA /* Driving_LogUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4572B38429A2D4A10070FDBA /* Driving_LogUITestsLaunchTests.swift */; };
+		45A210E629A2D960005EA11A /* Driving_LogApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45A210E529A2D960005EA11A /* Driving_LogApp.swift */; };
+		45A210E829A2D960005EA11A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45A210E729A2D960005EA11A /* ContentView.swift */; };
+		45A210EA29A2D962005EA11A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 45A210E929A2D962005EA11A /* Assets.xcassets */; };
+		45A210ED29A2D962005EA11A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 45A210EC29A2D962005EA11A /* Preview Assets.xcassets */; };
+		45A210F729A2D962005EA11A /* Driving_LogTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45A210F629A2D962005EA11A /* Driving_LogTests.swift */; };
+		45A2110129A2D962005EA11A /* Driving_LogUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45A2110029A2D962005EA11A /* Driving_LogUITests.swift */; };
+		45A2110329A2D962005EA11A /* Driving_LogUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45A2110229A2D962005EA11A /* Driving_LogUITestsLaunchTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		4572B37529A2D4A10070FDBA /* PBXContainerItemProxy */ = {
+		45A210F329A2D962005EA11A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 4572B35B29A2D49F0070FDBA /* Project object */;
+			containerPortal = 45A210DA29A2D960005EA11A /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 4572B36229A2D4A00070FDBA;
+			remoteGlobalIDString = 45A210E129A2D960005EA11A;
 			remoteInfo = "Driving Log";
 		};
-		4572B37F29A2D4A10070FDBA /* PBXContainerItemProxy */ = {
+		45A210FD29A2D962005EA11A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 4572B35B29A2D49F0070FDBA /* Project object */;
+			containerPortal = 45A210DA29A2D960005EA11A /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 4572B36229A2D4A00070FDBA;
+			remoteGlobalIDString = 45A210E129A2D960005EA11A;
 			remoteInfo = "Driving Log";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		4572B36329A2D4A00070FDBA /* Driving Log.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Driving Log.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4572B36629A2D4A00070FDBA /* Driving_LogApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Driving_LogApp.swift; sourceTree = "<group>"; };
-		4572B36829A2D4A00070FDBA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		4572B36A29A2D4A10070FDBA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		4572B36C29A2D4A10070FDBA /* Driving_Log.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Driving_Log.entitlements; sourceTree = "<group>"; };
-		4572B36E29A2D4A10070FDBA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		4572B37429A2D4A10070FDBA /* Driving LogTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Driving LogTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4572B37829A2D4A10070FDBA /* Driving_LogTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Driving_LogTests.swift; sourceTree = "<group>"; };
-		4572B37E29A2D4A10070FDBA /* Driving LogUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Driving LogUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4572B38229A2D4A10070FDBA /* Driving_LogUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Driving_LogUITests.swift; sourceTree = "<group>"; };
-		4572B38429A2D4A10070FDBA /* Driving_LogUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Driving_LogUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		45A210E229A2D960005EA11A /* Driving Log.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Driving Log.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		45A210E529A2D960005EA11A /* Driving_LogApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Driving_LogApp.swift; sourceTree = "<group>"; };
+		45A210E729A2D960005EA11A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		45A210E929A2D962005EA11A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		45A210EC29A2D962005EA11A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		45A210F229A2D962005EA11A /* Driving LogTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Driving LogTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		45A210F629A2D962005EA11A /* Driving_LogTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Driving_LogTests.swift; sourceTree = "<group>"; };
+		45A210FC29A2D962005EA11A /* Driving LogUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Driving LogUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		45A2110029A2D962005EA11A /* Driving_LogUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Driving_LogUITests.swift; sourceTree = "<group>"; };
+		45A2110229A2D962005EA11A /* Driving_LogUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Driving_LogUITestsLaunchTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		4572B36029A2D4A00070FDBA /* Frameworks */ = {
+		45A210DF29A2D960005EA11A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4572B37129A2D4A10070FDBA /* Frameworks */ = {
+		45A210EF29A2D962005EA11A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4572B37B29A2D4A10070FDBA /* Frameworks */ = {
+		45A210F929A2D962005EA11A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -72,59 +71,58 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		4572B35A29A2D49F0070FDBA = {
+		45A210D929A2D960005EA11A = {
 			isa = PBXGroup;
 			children = (
-				4572B36529A2D4A00070FDBA /* Driving Log */,
-				4572B37729A2D4A10070FDBA /* Driving LogTests */,
-				4572B38129A2D4A10070FDBA /* Driving LogUITests */,
-				4572B36429A2D4A00070FDBA /* Products */,
+				45A210E429A2D960005EA11A /* Driving Log */,
+				45A210F529A2D962005EA11A /* Driving LogTests */,
+				45A210FF29A2D962005EA11A /* Driving LogUITests */,
+				45A210E329A2D960005EA11A /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		4572B36429A2D4A00070FDBA /* Products */ = {
+		45A210E329A2D960005EA11A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4572B36329A2D4A00070FDBA /* Driving Log.app */,
-				4572B37429A2D4A10070FDBA /* Driving LogTests.xctest */,
-				4572B37E29A2D4A10070FDBA /* Driving LogUITests.xctest */,
+				45A210E229A2D960005EA11A /* Driving Log.app */,
+				45A210F229A2D962005EA11A /* Driving LogTests.xctest */,
+				45A210FC29A2D962005EA11A /* Driving LogUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		4572B36529A2D4A00070FDBA /* Driving Log */ = {
+		45A210E429A2D960005EA11A /* Driving Log */ = {
 			isa = PBXGroup;
 			children = (
-				4572B36629A2D4A00070FDBA /* Driving_LogApp.swift */,
-				4572B36829A2D4A00070FDBA /* ContentView.swift */,
-				4572B36A29A2D4A10070FDBA /* Assets.xcassets */,
-				4572B36C29A2D4A10070FDBA /* Driving_Log.entitlements */,
-				4572B36D29A2D4A10070FDBA /* Preview Content */,
+				45A210E529A2D960005EA11A /* Driving_LogApp.swift */,
+				45A210E729A2D960005EA11A /* ContentView.swift */,
+				45A210E929A2D962005EA11A /* Assets.xcassets */,
+				45A210EB29A2D962005EA11A /* Preview Content */,
 			);
 			path = "Driving Log";
 			sourceTree = "<group>";
 		};
-		4572B36D29A2D4A10070FDBA /* Preview Content */ = {
+		45A210EB29A2D962005EA11A /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				4572B36E29A2D4A10070FDBA /* Preview Assets.xcassets */,
+				45A210EC29A2D962005EA11A /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		4572B37729A2D4A10070FDBA /* Driving LogTests */ = {
+		45A210F529A2D962005EA11A /* Driving LogTests */ = {
 			isa = PBXGroup;
 			children = (
-				4572B37829A2D4A10070FDBA /* Driving_LogTests.swift */,
+				45A210F629A2D962005EA11A /* Driving_LogTests.swift */,
 			);
 			path = "Driving LogTests";
 			sourceTree = "<group>";
 		};
-		4572B38129A2D4A10070FDBA /* Driving LogUITests */ = {
+		45A210FF29A2D962005EA11A /* Driving LogUITests */ = {
 			isa = PBXGroup;
 			children = (
-				4572B38229A2D4A10070FDBA /* Driving_LogUITests.swift */,
-				4572B38429A2D4A10070FDBA /* Driving_LogUITestsLaunchTests.swift */,
+				45A2110029A2D962005EA11A /* Driving_LogUITests.swift */,
+				45A2110229A2D962005EA11A /* Driving_LogUITestsLaunchTests.swift */,
 			);
 			path = "Driving LogUITests";
 			sourceTree = "<group>";
@@ -132,13 +130,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4572B36229A2D4A00070FDBA /* Driving Log */ = {
+		45A210E129A2D960005EA11A /* Driving Log */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4572B38829A2D4A10070FDBA /* Build configuration list for PBXNativeTarget "Driving Log" */;
+			buildConfigurationList = 45A2110629A2D962005EA11A /* Build configuration list for PBXNativeTarget "Driving Log" */;
 			buildPhases = (
-				4572B35F29A2D4A00070FDBA /* Sources */,
-				4572B36029A2D4A00070FDBA /* Frameworks */,
-				4572B36129A2D4A00070FDBA /* Resources */,
+				45A210DE29A2D960005EA11A /* Sources */,
+				45A210DF29A2D960005EA11A /* Frameworks */,
+				45A210E029A2D960005EA11A /* Resources */,
 			);
 			buildRules = (
 			);
@@ -146,69 +144,69 @@
 			);
 			name = "Driving Log";
 			productName = "Driving Log";
-			productReference = 4572B36329A2D4A00070FDBA /* Driving Log.app */;
+			productReference = 45A210E229A2D960005EA11A /* Driving Log.app */;
 			productType = "com.apple.product-type.application";
 		};
-		4572B37329A2D4A10070FDBA /* Driving LogTests */ = {
+		45A210F129A2D962005EA11A /* Driving LogTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4572B38B29A2D4A10070FDBA /* Build configuration list for PBXNativeTarget "Driving LogTests" */;
+			buildConfigurationList = 45A2110929A2D962005EA11A /* Build configuration list for PBXNativeTarget "Driving LogTests" */;
 			buildPhases = (
-				4572B37029A2D4A10070FDBA /* Sources */,
-				4572B37129A2D4A10070FDBA /* Frameworks */,
-				4572B37229A2D4A10070FDBA /* Resources */,
+				45A210EE29A2D962005EA11A /* Sources */,
+				45A210EF29A2D962005EA11A /* Frameworks */,
+				45A210F029A2D962005EA11A /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				4572B37629A2D4A10070FDBA /* PBXTargetDependency */,
+				45A210F429A2D962005EA11A /* PBXTargetDependency */,
 			);
 			name = "Driving LogTests";
 			productName = "Driving LogTests";
-			productReference = 4572B37429A2D4A10070FDBA /* Driving LogTests.xctest */;
+			productReference = 45A210F229A2D962005EA11A /* Driving LogTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		4572B37D29A2D4A10070FDBA /* Driving LogUITests */ = {
+		45A210FB29A2D962005EA11A /* Driving LogUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4572B38E29A2D4A10070FDBA /* Build configuration list for PBXNativeTarget "Driving LogUITests" */;
+			buildConfigurationList = 45A2110C29A2D962005EA11A /* Build configuration list for PBXNativeTarget "Driving LogUITests" */;
 			buildPhases = (
-				4572B37A29A2D4A10070FDBA /* Sources */,
-				4572B37B29A2D4A10070FDBA /* Frameworks */,
-				4572B37C29A2D4A10070FDBA /* Resources */,
+				45A210F829A2D962005EA11A /* Sources */,
+				45A210F929A2D962005EA11A /* Frameworks */,
+				45A210FA29A2D962005EA11A /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				4572B38029A2D4A10070FDBA /* PBXTargetDependency */,
+				45A210FE29A2D962005EA11A /* PBXTargetDependency */,
 			);
 			name = "Driving LogUITests";
 			productName = "Driving LogUITests";
-			productReference = 4572B37E29A2D4A10070FDBA /* Driving LogUITests.xctest */;
+			productReference = 45A210FC29A2D962005EA11A /* Driving LogUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		4572B35B29A2D49F0070FDBA /* Project object */ = {
+		45A210DA29A2D960005EA11A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1420;
 				LastUpgradeCheck = 1420;
 				TargetAttributes = {
-					4572B36229A2D4A00070FDBA = {
+					45A210E129A2D960005EA11A = {
 						CreatedOnToolsVersion = 14.2;
 					};
-					4572B37329A2D4A10070FDBA = {
+					45A210F129A2D962005EA11A = {
 						CreatedOnToolsVersion = 14.2;
-						TestTargetID = 4572B36229A2D4A00070FDBA;
+						TestTargetID = 45A210E129A2D960005EA11A;
 					};
-					4572B37D29A2D4A10070FDBA = {
+					45A210FB29A2D962005EA11A = {
 						CreatedOnToolsVersion = 14.2;
-						TestTargetID = 4572B36229A2D4A00070FDBA;
+						TestTargetID = 45A210E129A2D960005EA11A;
 					};
 				};
 			};
-			buildConfigurationList = 4572B35E29A2D49F0070FDBA /* Build configuration list for PBXProject "Driving Log" */;
+			buildConfigurationList = 45A210DD29A2D960005EA11A /* Build configuration list for PBXProject "Driving Log" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -216,36 +214,36 @@
 				en,
 				Base,
 			);
-			mainGroup = 4572B35A29A2D49F0070FDBA;
-			productRefGroup = 4572B36429A2D4A00070FDBA /* Products */;
+			mainGroup = 45A210D929A2D960005EA11A;
+			productRefGroup = 45A210E329A2D960005EA11A /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4572B36229A2D4A00070FDBA /* Driving Log */,
-				4572B37329A2D4A10070FDBA /* Driving LogTests */,
-				4572B37D29A2D4A10070FDBA /* Driving LogUITests */,
+				45A210E129A2D960005EA11A /* Driving Log */,
+				45A210F129A2D962005EA11A /* Driving LogTests */,
+				45A210FB29A2D962005EA11A /* Driving LogUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		4572B36129A2D4A00070FDBA /* Resources */ = {
+		45A210E029A2D960005EA11A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4572B36F29A2D4A10070FDBA /* Preview Assets.xcassets in Resources */,
-				4572B36B29A2D4A10070FDBA /* Assets.xcassets in Resources */,
+				45A210ED29A2D962005EA11A /* Preview Assets.xcassets in Resources */,
+				45A210EA29A2D962005EA11A /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4572B37229A2D4A10070FDBA /* Resources */ = {
+		45A210F029A2D962005EA11A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4572B37C29A2D4A10070FDBA /* Resources */ = {
+		45A210FA29A2D962005EA11A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -255,49 +253,49 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		4572B35F29A2D4A00070FDBA /* Sources */ = {
+		45A210DE29A2D960005EA11A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4572B36929A2D4A00070FDBA /* ContentView.swift in Sources */,
-				4572B36729A2D4A00070FDBA /* Driving_LogApp.swift in Sources */,
+				45A210E829A2D960005EA11A /* ContentView.swift in Sources */,
+				45A210E629A2D960005EA11A /* Driving_LogApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4572B37029A2D4A10070FDBA /* Sources */ = {
+		45A210EE29A2D962005EA11A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4572B37929A2D4A10070FDBA /* Driving_LogTests.swift in Sources */,
+				45A210F729A2D962005EA11A /* Driving_LogTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4572B37A29A2D4A10070FDBA /* Sources */ = {
+		45A210F829A2D962005EA11A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4572B38329A2D4A10070FDBA /* Driving_LogUITests.swift in Sources */,
-				4572B38529A2D4A10070FDBA /* Driving_LogUITestsLaunchTests.swift in Sources */,
+				45A2110129A2D962005EA11A /* Driving_LogUITests.swift in Sources */,
+				45A2110329A2D962005EA11A /* Driving_LogUITestsLaunchTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		4572B37629A2D4A10070FDBA /* PBXTargetDependency */ = {
+		45A210F429A2D962005EA11A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 4572B36229A2D4A00070FDBA /* Driving Log */;
-			targetProxy = 4572B37529A2D4A10070FDBA /* PBXContainerItemProxy */;
+			target = 45A210E129A2D960005EA11A /* Driving Log */;
+			targetProxy = 45A210F329A2D962005EA11A /* PBXContainerItemProxy */;
 		};
-		4572B38029A2D4A10070FDBA /* PBXTargetDependency */ = {
+		45A210FE29A2D962005EA11A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 4572B36229A2D4A00070FDBA /* Driving Log */;
-			targetProxy = 4572B37F29A2D4A10070FDBA /* PBXContainerItemProxy */;
+			target = 45A210E129A2D960005EA11A /* Driving Log */;
+			targetProxy = 45A210FD29A2D962005EA11A /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		4572B38629A2D4A10070FDBA /* Debug */ = {
+		45A2110429A2D962005EA11A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -347,15 +345,17 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
-		4572B38729A2D4A10070FDBA /* Release */ = {
+		45A2110529A2D962005EA11A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -399,86 +399,73 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
-		4572B38929A2D4A10070FDBA /* Debug */ = {
+		45A2110729A2D962005EA11A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = "Driving Log/Driving_Log.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Driving Log/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
-				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
-				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
-				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Chip-Thrasher.Driving-Log";
+				PRODUCT_BUNDLE_IDENTIFIER = "chipthrasher.Driving-Log";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		4572B38A29A2D4A10070FDBA /* Release */ = {
+		45A2110829A2D962005EA11A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = "Driving Log/Driving_Log.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Driving Log/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
-				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
-				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
-				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Chip-Thrasher.Driving-Log";
+				PRODUCT_BUNDLE_IDENTIFIER = "chipthrasher.Driving-Log";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
-		4572B38C29A2D4A10070FDBA /* Debug */ = {
+		45A2110A29A2D962005EA11A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -487,12 +474,9 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
-				MACOSX_DEPLOYMENT_TARGET = 13.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Chip-Thrasher.Driving-LogTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "chipthrasher.Driving-LogTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -500,7 +484,7 @@
 			};
 			name = Debug;
 		};
-		4572B38D29A2D4A10070FDBA /* Release */ = {
+		45A2110B29A2D962005EA11A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -509,12 +493,9 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
-				MACOSX_DEPLOYMENT_TARGET = 13.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Chip-Thrasher.Driving-LogTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "chipthrasher.Driving-LogTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -522,20 +503,16 @@
 			};
 			name = Release;
 		};
-		4572B38F29A2D4A10070FDBA /* Debug */ = {
+		45A2110D29A2D962005EA11A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
-				MACOSX_DEPLOYMENT_TARGET = 13.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Chip-Thrasher.Driving-LogUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "chipthrasher.Driving-LogUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -543,20 +520,16 @@
 			};
 			name = Debug;
 		};
-		4572B39029A2D4A10070FDBA /* Release */ = {
+		45A2110E29A2D962005EA11A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
-				MACOSX_DEPLOYMENT_TARGET = 13.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Chip-Thrasher.Driving-LogUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "chipthrasher.Driving-LogUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -567,43 +540,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4572B35E29A2D49F0070FDBA /* Build configuration list for PBXProject "Driving Log" */ = {
+		45A210DD29A2D960005EA11A /* Build configuration list for PBXProject "Driving Log" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4572B38629A2D4A10070FDBA /* Debug */,
-				4572B38729A2D4A10070FDBA /* Release */,
+				45A2110429A2D962005EA11A /* Debug */,
+				45A2110529A2D962005EA11A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4572B38829A2D4A10070FDBA /* Build configuration list for PBXNativeTarget "Driving Log" */ = {
+		45A2110629A2D962005EA11A /* Build configuration list for PBXNativeTarget "Driving Log" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4572B38929A2D4A10070FDBA /* Debug */,
-				4572B38A29A2D4A10070FDBA /* Release */,
+				45A2110729A2D962005EA11A /* Debug */,
+				45A2110829A2D962005EA11A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4572B38B29A2D4A10070FDBA /* Build configuration list for PBXNativeTarget "Driving LogTests" */ = {
+		45A2110929A2D962005EA11A /* Build configuration list for PBXNativeTarget "Driving LogTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4572B38C29A2D4A10070FDBA /* Debug */,
-				4572B38D29A2D4A10070FDBA /* Release */,
+				45A2110A29A2D962005EA11A /* Debug */,
+				45A2110B29A2D962005EA11A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4572B38E29A2D4A10070FDBA /* Build configuration list for PBXNativeTarget "Driving LogUITests" */ = {
+		45A2110C29A2D962005EA11A /* Build configuration list for PBXNativeTarget "Driving LogUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4572B38F29A2D4A10070FDBA /* Debug */,
-				4572B39029A2D4A10070FDBA /* Release */,
+				45A2110D29A2D962005EA11A /* Debug */,
+				45A2110E29A2D962005EA11A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 4572B35B29A2D49F0070FDBA /* Project object */;
+	rootObject = 45A210DA29A2D960005EA11A /* Project object */;
 }
